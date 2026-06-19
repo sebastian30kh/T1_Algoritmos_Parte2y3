@@ -99,4 +99,4 @@ for p in resultado_insercion:
 print("\nANÁLISIS COMPARATIVO:")
 print("-" * 40)
 print("Burbuja:   O(n²) - Muchas comparaciones, poco eficiente")
-print("Selección: O(n²) - Menos
+print("Selección: O(n²) - Menos comparaciones que burbuja")
